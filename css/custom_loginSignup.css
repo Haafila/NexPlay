@@ -1,0 +1,73 @@
+
+body{
+	 background-image:url('../images/bg11.jpg');
+	 background-size: cover !important;
+     background-position: center !important;
+   	 background-attachment: fixed !important;
+}
+
+/* Button colors */
+.btn-primary {
+   background-color: #8e44ad ; 
+    border-color: #8e44ad ;
+}
+
+.btn-primary:hover {
+    background-color: rgb(77, 9, 121)  ; 
+    border-color: #310053 ;
+}
+
+.btn-secondary {
+    background-color:#8b0d88 ;
+    border-color: #8b0d88;
+}
+
+/* Text colors */
+.text-primary {
+    color: #ff6bcb ; 
+}
+
+.text-secondary {
+    color: #8e44ad ; 
+}
+
+
+/* Card customization */
+.card {
+    background-color: #310053c4 ; 
+    color: #fff ; 
+}
+
+.card-header {
+    background-color: #8e44ad ; 
+}
+
+/* Form inputs */
+.form-control {
+    background-color: #cbc3e3 ; 
+    color: #310053 ; 
+    border: 1px solid #ff6bcb ; 
+}
+
+.form-control:focus {
+    background-color: #e6e6fa ; 
+    border-color: #ff6bcb ; 
+    box-shadow: none ;
+}
+
+
+
+/* Buttons */
+.btn-primary {
+    background-color: #8b0d88 ; 
+   
+}
+
+.btn-danger {
+    background-color: #dc3545 ;
+    border-color: #dc3545 ;
+}
+
+
+
+

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+  	background-image:url('../images/bg101.jpg');
+	background-size: cover !important;
+  	background-position: center !important;
+	background-attachment: fixed !important;
+}
+.card{
+	background-color:#8b0d88c4;
+	color: #fff;
+	width: 70%;
+	border-radius: 20px;
+	margin-left: 160px;
+}
+  	
+table {
+  border-radius:20px;
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  background-color: #301934; 
+  color: white;
+  padding: 12px;
+  text-align: left;
+}
+
+td, th {
+  border: 1px solid #ddd;
+}
