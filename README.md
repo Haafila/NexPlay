@@ -15,7 +15,7 @@ The system includes the following key modules:
 
 I developed the following core functionalities related to managing games:
 
-- ✅ **Insert Game** – Add new games with name, genre, price, description, release date, etc.
+- ✅ **Insert Game** – Add new games with name, genre, price, description, release date, multi player.
 - ✏️ **Edit Game Details** – Update existing game information.
 - ❌ **Delete Game** – Remove games from the system.
 - 🔍 **View Game Details** – See detailed information about a specific game.
